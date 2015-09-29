@@ -1,6 +1,6 @@
 {
-  "name": "Example5",
-  "description": "JSX",
+  "name": "Example6",
+  "description": "Build my first component",
   "version": "0.0.1",
   "main": "server.js",
   "scripts": {
